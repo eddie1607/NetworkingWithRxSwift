@@ -1,0 +1,7 @@
+
+
+1 cria os modelos
+2cria uma celula quesera usada  na configuracao da  tableview
+3 cria a tableview  programaticamente  registra celula,configura layout no viewcontroller
+4 cria uma api de requisicao 
+
